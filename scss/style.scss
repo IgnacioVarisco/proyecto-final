@@ -1,0 +1,21 @@
+//GENERALES
+@import "./general/variables";
+@import "./general/reset";
+@import "./general/estilo-general";
+
+//SECTIONS//
+@import "./sections/header";
+@import "./sections/footer";
+@import "./sections/index";
+@import "./sections/departamentos";
+@import "./sections/servicios";
+@import "./sections/reservas";
+@import "./sections/quienes-somos";
+
+//COMPONENTES//
+
+@import "./componentes/imagenes";
+@import "./componentes/links";
+
+
+
